@@ -15,6 +15,7 @@ In this project, we'll develop a system for filtering and categorizing movie rev
 
 ## Dataset
 **imdb_reviews.tsv**:
+- File size too large for upload, users will need to extract the 7zip archive to the appropriate directory prior to loading the data
 - Full dataset described in notebook
 - Only columns used for main task are review (text processing) and pos (target variable) 
 
