@@ -19,7 +19,7 @@ In this project, we'll develop a system for filtering and categorizing movie rev
 - Full dataset described in notebook
 - Only columns used for main task are review (text processing) and pos (target variable) 
 
-## Required Libraries
+## Requirements
 - math
 - pandas
 - numpy
